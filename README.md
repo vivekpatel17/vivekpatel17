@@ -1,7 +1,7 @@
 # Hey 👋 I'm Vivek
 
 <p align="center">I am a undergrad, pursuing Btech in Electronics and Communication Engineering.<br>
-I make elegantly professional 🌍 web apps. You can find my Portfolio<a href="https://vivekpatel17.github.io/Portfolio/"> here</a>. </p>
+I make elegantly professional 🌍 web apps. You can find my<a href="https://vivekpatel17.github.io/Portfolio../"> Portfolio</a>. </p>
 
 
 ## Github stats:
