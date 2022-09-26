@@ -1,7 +1,9 @@
 # Hey 👋 I'm Vivek
 
-<p align="center">I am a undergrad, pursuing Btech in Electronics and Communication Engineering.<br>
-I make elegantly professional 🌍 web apps. You can find my<a href="https://vivekpatel17.github.io/Portfolio../"> Portfolio</a>. </p>
+<p align="center">
+I am a undergrad, pursuing Btech in Electronics and Communication Engineering.<br>
+I make elegantly professional 🌍 web apps. You can find my<a href="https://vivekpatel17.github.io/Portfolio../"> Portfolio</a>. 
+</p>
 
 
 ## Github stats:
@@ -23,3 +25,10 @@ Here are some ideas to get you started: -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 
+## Holo Pin
+<!-- [![@hyper_gratis's Holopin board](https://holopin.io/api/user/board?user=hyper_gratis)](https://holopin.io/@hyper_gratis) -->
+<!-- The unique Badge ID is cl8j56swn424309jl95a3vw8i. -->
+
+<!-- <div> -->
+<!--  <img src="https://holopin.io/api/user/board?user=hyper_gratis" /> -->
+<!-- </div> -->
