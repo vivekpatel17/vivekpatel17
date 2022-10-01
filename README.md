@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 
-## Holo Pin
+<!--## Holo Pin -->
 <!-- [![@hyper_gratis's Holopin board](https://holopin.io/api/user/board?user=hyper_gratis)](https://holopin.io/@hyper_gratis) -->
 <!-- The unique Badge ID is cl8j56swn424309jl95a3vw8i. -->
 
